@@ -1,0 +1,19 @@
+{
+  "name": "texts2eff2",
+  "version": "1.0.0",
+  "description": "You will know it when you receive it",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinelanguage/texts2eff2.git"
+  },
+  "author": "sinelanguage - Adam Winick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinelanguage/texts2eff2/issues"
+  },
+  "homepage": "https://github.com/sinelanguage/texts2eff2#readme"
+}
